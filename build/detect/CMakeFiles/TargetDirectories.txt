@@ -1,0 +1,10 @@
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/uninstall.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/detect_uninstall.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/detect_node.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/test.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/edit_cache.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/rebuild_cache.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/list_install_components.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/install.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/install/local.dir
+/home/cody/ros2_ws/src/detect/build/detect/CMakeFiles/install/strip.dir
